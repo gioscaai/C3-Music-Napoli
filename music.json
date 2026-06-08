@@ -11,4 +11,16 @@
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Il%20buio%20se%20ne%20andr%C3%A0.mp3",
     "lyrics": "Perché, Perché?\nLa guerra nella mente ora c'è\nLa voce tua, voglio ascoltar\nDistrugge le bugie dentro di me.\n\nSentì il mio cuor, Il mio dolor\nAnche il sussurro nell’oscurità\nE pregando, una voce risuonò:\n\nDi' a quei demoni: «Andate via!»\nTremano davanti al nome di Gesù\nLa paura qui non ha più casa ormai\nNella Tua luce il buio se ne andrà\nOh-oh...\n\nLibero, sì libero\nOra non hanno più potere su di me\nNel nome tuo, io so che\nAnsia e depressione vanno via\nTu mi hai guarito\nMi hai dato vita\nLe lacrime mie raccoglierai\nE pregando, una voce risuonò:\n\nDi' a quei demoni: «Andate via!»\nTremano davanti al nome di Gesù\nLa paura qui non ha più casa ormai\nNella Tua luce il buio se ne andrà\nOh-oh...\n\nNon credo alle bugie\nNon prenderanno mai più questa vita mia\nIl sangue di Gesù mi ha riscattato ormai\nNella Tua luce il buio se ne andrà\nOh-oh..."
   }
+  {
+    "guid": "c3-music-002",
+    "title": "Grandi opere fai",
+    "artist": "C3 Music Napoli",
+    "album": "Great Things-Phil Wickam",
+    "description": "Grandi opere fai - versione italiana di "Great Things" dall'album "Living Hope" by Phil Wickham.",
+    "pubDate": "2020-04-28T12:00:00Z",
+    "duration": "04:43",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Grandi%20opere%20fai.jpeg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Grandi%20opere%20fai.mp3",
+    "lyrics":
+  }
 ]
