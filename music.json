@@ -1,11 +1,13 @@
 [
   {
     "guid": "c3-music-001",
-    "title": "Il buglio se ne andrà",
-    "description": "Il buio se ne andrà (Live da Breakthrough - La Svolta) Versione italiana di 'Demons' di Josiah Queen feat. Julia Poe",
+    "title": "Il buio se ne andrà",
+    "artist": "C3 Music",
+    "album": "Live da Breakthrough La Svolta",
+    "description": "Versione italiana di 'Demons' di Josiah Queen feat. Julia Poe (Live da Breakthrough - La Svolta)",
     "pubDate": "2026-06-08T12:00:00Z",
     "duration": "03:45",
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Il buio se ne andrà.jpeg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Il buio se ne andrà.mp3"
-  },
- ]
+  }
+]
