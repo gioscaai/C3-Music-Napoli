@@ -22,5 +22,17 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Grandi%20opere%20fai.jpg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Grandi%20opere%20fai.mp3",
     "lyrics":""
+  },
+   {
+    "guid": "c3-music-003",
+    "title": "Speranza sei",
+    "artist": "C3 Music Napoli",
+    "album": "Pilgrims C3 Music.",
+    "description": "Speranza sei, versione italiana di Hope remains dall'album Pilgrims by C3 Music. Traduzione e adattamento by C3 Reach Napoli",
+    "pubDate": "2020-04-07T12:00:00Z",
+    "duration": "04:37",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Speranza%20sei%20.jpg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Speranza%20sei%20.mp3",
+    "lyrics":""
   }
 ]
