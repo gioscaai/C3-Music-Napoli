@@ -46,5 +46,17 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Danzo%20nella%20luce.jpg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Danzo%20nella%20luce.mp3",
     "lyrics":""
+  },
+   {
+    "guid": "c3-music-005",
+    "title": "Quale altro Re",
+    "artist": "C3 Music Napoli",
+    "album": "Pilgrims, C3 Music",
+    "description": "Quale altro Re - versione italiana di'What Other King' dall'album 'Pilgrims' by C3 Music. Traduzione e adattamento by C3 Reach Napoli",
+    "pubDate": "2020-03-27T12:00:00Z",
+    "duration": "04:26",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Quale%20altro%20Re.jpg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Quale%20altro%20Re.mp3",
+    "lyrics":""
   }
 ]
