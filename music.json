@@ -34,5 +34,17 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Speranza%20sei.jpg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Speranza%20sei.mp3",
     "lyrics":""
+  },
+   {
+    "guid": "c3-music-004",
+    "title": "Danzo nella luce",
+    "artist": "C3 Music Napoli",
+    "album": "Nevertheless, C3 Music",
+    "description": "Danzo nella luce - versione italiana di Dancing in the Light dall'album Nevertheless by C3 Music. Traduzione e adattamento by C3 Reach Napoli.",
+    "pubDate": "2020-04-07T12:00:00Z",
+    "duration": "03:04",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Danzo%20nella%20luce.jpg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Danzo%20nella%20luce.mp3",
+    "lyrics":""
   }
 ]
