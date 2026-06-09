@@ -58,5 +58,17 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Quale%20altro%20Re.jpg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Quale%20altro%20Re.mp3",
     "lyrics":""
+  },
+   {
+    "guid": "c3-music-006",
+    "title": "Il tuo Nom",
+    "artist": "C3 Music Napoli",
+    "album": "Abide, C3 Music",
+    "description": "Il tuo nom - versione italiana di 'Your name' dall'album 'Abide' by C3 Music. Traduzione e adattamento by C3 Reach Napoli ",
+    "pubDate": "2020-03-31T12:00:00Z",
+    "duration": "04:29",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Il%20tuo%20Nom.jpg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Il%20tuo%20Nom.mp3",
+    "lyrics":""
   }
 ]
