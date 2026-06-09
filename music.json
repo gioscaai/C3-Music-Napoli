@@ -70,5 +70,17 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Il%20tuo%20Nom.jpg",
     "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Il%20tuo%20Nom.mp3",
     "lyrics":""
+  },
+   {
+    "guid": "c3-music-007",
+    "title": "Un giorno tornerai",
+    "artist": "C3 Music Napoli",
+    "album": "Passion",
+    "description": "Un giorno tornerai - versione italiana di Glorious Day da Passion feat Kristian Stanfill.",
+    "pubDate": "2020-04-21T12:00:00Z",
+    "duration": "04:17",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/covers/Un%20giorno%20tornerai.jpg",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/gioscaai/C3-Music-Napoli@main/songs/Un%20giorno%20tornerai.mp3",
+    "lyrics":""
   }
 ]
